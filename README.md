@@ -39,3 +39,6 @@ The Leitner system uses 5 boxes with increasing review intervals:
 - **Box 5**: Review bi-weekly (mastered cards)
 
 When you answer correctly, the card moves to the next box. When you answer incorrectly, the card returns to Box 1.
+
+
+<!-- Security scan triggered at 2026-09-05 07:34:09 -->
