@@ -46,3 +46,5 @@ When you answer correctly, the card moves to the next box. When you answer incor
 <!-- Security scan triggered at 2026-10-07 11:51:27 -->
 
 <!-- Security scan triggered at 2026-10-07 14:40:22 -->
+
+<!-- Security scan triggered at 2026-10-07 14:42:14 -->
